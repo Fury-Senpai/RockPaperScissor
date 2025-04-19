@@ -1,0 +1,26 @@
+body{
+    background-color:black;
+    color:azure;
+    font-family: arial;
+}
+.move-btn{
+    background-color: transparent;
+    border-radius: 100px;
+    margin-right: 10px;
+    border : 2px solid white;
+    height: 200px;
+    width: 200px;
+}
+.move-img{
+    height: 100px;
+    padding: 40px;
+}
+.res-img{
+    height: 50px;
+    padding: 20px;
+}
+.reset-btn{
+    height: 40px;
+    width: 100px;
+    font-size: 20px;
+}
